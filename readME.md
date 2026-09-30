@@ -6,3 +6,11 @@
 3. Point the input to where you want the music to go  
 
 Control the configs in controls.py !
+
+## Also features requirements.txt for windows
+
+1. python -m venv venv
+2. pip install -r requirements.txt
+3. python main.py
+
+# Make sure ffmpeg is installd :)
